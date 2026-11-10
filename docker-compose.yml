@@ -1,0 +1,33 @@
+services:
+  glazion-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: glazion-api
+    restart: unless-stopped
+    ports:
+      - "5136:8080"
+    depends_on:
+      - glazion-postgres
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      ConnectionStrings__GlazionDb: Host=glazion-postgres;Port=5432;Database=glazion;Username=postgres;Password=${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      BootstrapAdmin__Password: ${BOOTSTRAP_ADMIN_PASSWORD:?Set BOOTSTRAP_ADMIN_PASSWORD in .env}
+
+  glazion-postgres:
+    image: postgres:16-alpine
+    container_name: glazion-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: glazion
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    ports:
+      - "5432:5432"
+    volumes:
+      - glazion-postgres-data:/var/lib/postgresql/data
+
+volumes:
+  glazion-postgres-data:

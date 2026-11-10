@@ -1,0 +1,296 @@
+[
+  {
+    "cone": "06",
+    "oxide": "SiO2",
+    "minUmf": 1.5,
+    "maxUmf": 2.5,
+    "notes": "Silica - glass former"
+  },
+  {
+    "cone": "06",
+    "oxide": "Al2O3",
+    "minUmf": 0.05,
+    "maxUmf": 0.3,
+    "notes": "Alumina - stabilizer"
+  },
+  {
+    "cone": "06",
+    "oxide": "B2O3",
+    "minUmf": 0.3,
+    "maxUmf": 0.8,
+    "notes": "Boron - flux and glass former"
+  },
+  {
+    "cone": "06",
+    "oxide": "Na2O",
+    "minUmf": 0.1,
+    "maxUmf": 0.4,
+    "notes": "Sodium - flux"
+  },
+  {
+    "cone": "06",
+    "oxide": "K2O",
+    "minUmf": 0.05,
+    "maxUmf": 0.3,
+    "notes": "Potassium - flux"
+  },
+  {
+    "cone": "06",
+    "oxide": "CaO",
+    "minUmf": 0.15,
+    "maxUmf": 0.5,
+    "notes": "Calcium - flux"
+  },
+  {
+    "cone": "06",
+    "oxide": "MgO",
+    "minUmf": 0,
+    "maxUmf": 0.2,
+    "notes": "Magnesium - flux"
+  },
+  {
+    "cone": "06",
+    "oxide": "ZnO",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Zinc - flux and opacifier"
+  },
+  {
+    "cone": "06",
+    "oxide": "PbO",
+    "minUmf": 0,
+    "maxUmf": 0.8,
+    "notes": "Lead - strong flux (use caution)"
+  },
+  {
+    "cone": "6",
+    "oxide": "SiO2",
+    "minUmf": 2.0,
+    "maxUmf": 4.0,
+    "notes": "Silica - glass former"
+  },
+  {
+    "cone": "6",
+    "oxide": "Al2O3",
+    "minUmf": 0.2,
+    "maxUmf": 0.6,
+    "notes": "Alumina - stabilizer"
+  },
+  {
+    "cone": "6",
+    "oxide": "B2O3",
+    "minUmf": 0,
+    "maxUmf": 0.6,
+    "notes": "Boron - flux and glass former"
+  },
+  {
+    "cone": "6",
+    "oxide": "Na2O",
+    "minUmf": 0.05,
+    "maxUmf": 0.35,
+    "notes": "Sodium - flux"
+  },
+  {
+    "cone": "6",
+    "oxide": "K2O",
+    "minUmf": 0.05,
+    "maxUmf": 0.35,
+    "notes": "Potassium - flux"
+  },
+  {
+    "cone": "6",
+    "oxide": "Li2O",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Lithium - strong flux"
+  },
+  {
+    "cone": "6",
+    "oxide": "CaO",
+    "minUmf": 0.3,
+    "maxUmf": 0.7,
+    "notes": "Calcium - flux"
+  },
+  {
+    "cone": "6",
+    "oxide": "MgO",
+    "minUmf": 0,
+    "maxUmf": 0.35,
+    "notes": "Magnesium - flux"
+  },
+  {
+    "cone": "6",
+    "oxide": "ZnO",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Zinc - flux and opacifier"
+  },
+  {
+    "cone": "6",
+    "oxide": "BaO",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Barium - flux"
+  },
+  {
+    "cone": "6",
+    "oxide": "SrO",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Strontium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "SiO2",
+    "minUmf": 2.5,
+    "maxUmf": 4.5,
+    "notes": "Silica - glass former"
+  },
+  {
+    "cone": "9",
+    "oxide": "Al2O3",
+    "minUmf": 0.3,
+    "maxUmf": 0.7,
+    "notes": "Alumina - stabilizer"
+  },
+  {
+    "cone": "9",
+    "oxide": "B2O3",
+    "minUmf": 0,
+    "maxUmf": 0.4,
+    "notes": "Boron - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "Na2O",
+    "minUmf": 0.05,
+    "maxUmf": 0.3,
+    "notes": "Sodium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "K2O",
+    "minUmf": 0.1,
+    "maxUmf": 0.4,
+    "notes": "Potassium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "Li2O",
+    "minUmf": 0,
+    "maxUmf": 0.25,
+    "notes": "Lithium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "CaO",
+    "minUmf": 0.3,
+    "maxUmf": 0.8,
+    "notes": "Calcium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "MgO",
+    "minUmf": 0,
+    "maxUmf": 0.4,
+    "notes": "Magnesium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "ZnO",
+    "minUmf": 0,
+    "maxUmf": 0.25,
+    "notes": "Zinc - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "BaO",
+    "minUmf": 0,
+    "maxUmf": 0.5,
+    "notes": "Barium - flux"
+  },
+  {
+    "cone": "9",
+    "oxide": "SrO",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Strontium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "SiO2",
+    "minUmf": 2.5,
+    "maxUmf": 5.0,
+    "notes": "Silica - glass former"
+  },
+  {
+    "cone": "10",
+    "oxide": "Al2O3",
+    "minUmf": 0.3,
+    "maxUmf": 0.8,
+    "notes": "Alumina - stabilizer"
+  },
+  {
+    "cone": "10",
+    "oxide": "B2O3",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Boron - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "Na2O",
+    "minUmf": 0.05,
+    "maxUmf": 0.3,
+    "notes": "Sodium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "K2O",
+    "minUmf": 0.1,
+    "maxUmf": 0.5,
+    "notes": "Potassium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "Li2O",
+    "minUmf": 0,
+    "maxUmf": 0.2,
+    "notes": "Lithium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "CaO",
+    "minUmf": 0.4,
+    "maxUmf": 0.9,
+    "notes": "Calcium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "MgO",
+    "minUmf": 0,
+    "maxUmf": 0.45,
+    "notes": "Magnesium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "ZnO",
+    "minUmf": 0,
+    "maxUmf": 0.2,
+    "notes": "Zinc - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "BaO",
+    "minUmf": 0,
+    "maxUmf": 0.6,
+    "notes": "Barium - flux"
+  },
+  {
+    "cone": "10",
+    "oxide": "SrO",
+    "minUmf": 0,
+    "maxUmf": 0.3,
+    "notes": "Strontium - flux"
+  }
+]

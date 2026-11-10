@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+.git/
+.github/
+tests/
+tools/
+docs/
+**/*.user
+.env
+.env.*
